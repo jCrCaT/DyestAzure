@@ -27,7 +27,7 @@ const Header = () => {
               <div className="">
                 <a
                   href="#conversemos"
-                  className="w-full flex items-center justify-center px-6 py-2 border border-transparent text-base font-medium text-white bg-amber-500 hover:bg-amber-600"
+                  className="w-full flex items-center justify-center px-6 py-2 border border-transparent text-base font-medium text-white bg-orange-500 hover:bg-amber-600"
                 >
                   Conversemos
                 </a>

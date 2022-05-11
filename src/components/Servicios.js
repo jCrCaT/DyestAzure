@@ -67,7 +67,7 @@ const Servicios = () => {
             <Tab.Panel>
               <div className="mb-7 text-gray-500 pb-10">
                 Automatizamos sus procesos de negocios, desde los más simples
-                hasta los más complejos desarrollando robots automatizados. Esto
+                hasta los más complejos desarrollando robots que hacen el trabajopor usted. Esto
                 se traduce en mayor eficiencia y por sobre
                 todo, una mejor reinversión de tiempo en la búsqueda de nuevas
                 oportunidades por parte de sus colaboradores.

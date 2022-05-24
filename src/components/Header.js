@@ -14,14 +14,10 @@ const Header = () => {
           <div className="w-full md:w-1/3">
             <div className="my-8 px-6">
               <p className="font-bold home-color-title text-3xl pb-4 text-lg uppercase text-center">
-                Generamos iniciativas basadas en datos.
+                Generamos iniciativas basadas en datos
               </p>
               <p className="text-slate-50 text-center text-base">
-                Desarrollamos proyectos en analítica, automatización de procesos
-                y plataformas Low Code con el objetivo de mejorar la
-                satisfacción de sus clientes y aumentar la eficiencia de su
-                organización, esto se traduce finalmente en un aumento en la
-                rentabilidad de su negocio.
+                Trabajamos con sus datos; extrayendo, transformando y disponibilizando estos con el objetivo de que pueda tomar las mejores decisiones, y así, usted pueda dedicarse solo a ver como su negocio crece.
               </p>
             </div>
             <div className="my-5 sm:my-8 flex justify-center">

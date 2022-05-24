@@ -6,6 +6,10 @@ import Brochure from "./components/Brochure";
 import Conversemos from "./components/Conversemos";
 import Industrias from "./components/Industrias";
 import Footer from "./components/Footer";
+import ReactGA from "react-ga4";
+
+ReactGA.initialize("G-C1ZWTYEQMR");
+ReactGA.send("pageview");
 
 function App() {
   return (

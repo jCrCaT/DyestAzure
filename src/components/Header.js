@@ -2,6 +2,7 @@ import React from "react";
 import inicio from "../assets/inicio.gif";
 import Navbar from "./Navbar";
 
+
 const Header = () => {
   return (
     <div className="w-full py-12" style={{ backgroundColor: "#0a0a0a" }}>

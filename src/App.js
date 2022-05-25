@@ -14,6 +14,7 @@ ReactGA.send("pageview");
 function App() {
   return (
     <div className="w-full font-roboto scroll-smooth">
+      <meta name="google-site-verification" content="KVHvyuTMebm4T8XIIeWhG2uA8RLLYv1gOQ3CK-yg7WE" />
       <Header />
       <Somos />
       <Servicios />

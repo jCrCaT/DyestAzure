@@ -30,28 +30,6 @@ const Conversemos = () => {
 
   };
 
-  /*
-  const isValidEmail = email =>
-    // eslint-disable-next-line no-useless-escape
-    /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test(
-      email
-    );
-
-  const handleEmailValidation = email => {
-    console.log("ValidateEmail was called with", email);
-
-    const isValid = isValidEmail(email);
-
-    const validityChanged =
-      (errors.email && isValid) || (!errors.email && !isValid);
-    if (validityChanged) {
-      console.log("Fire tracker with", isValid ? "Valid" : "Invalid");
-    }
-
-    return isValid;
-  };
-  */
-
   return (
     <div className="w-full bg-stone-50 py-10">
       <div className="max-w-6xl mx-auto p-3 md:px-4 md:py-6">

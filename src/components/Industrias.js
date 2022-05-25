@@ -5,17 +5,17 @@ const Industrias = () => {
     <div className="w-full py-10">
       <div className="max-w-7xl mx-auto p-4 md:px-6 md:py-10" id="industrias">
         <div className="mb-7">
-          <h1 className="text-2xl font-bold text-center my-3 home-color-title uppercase">
+          <h2 className="text-2xl font-bold text-center my-3 home-color-title uppercase">
             Industrias
-          </h1>
+          </h2>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="m-4 rounded-md shadow-md border-slate-100 border flex items-start p-2">
             <div className="w-32">
               <img
                 src={require("../assets/banca_.png")}
-                alt="Banca"
-                className="rounded-md border border-slate-200"
+                alt="Servicios para la banca"
+                className="rounded-md border border-slate-200 w-32"
               />
             </div>
             <div className="w-2/3 ml-6">
@@ -33,8 +33,8 @@ const Industrias = () => {
             <div className="w-32">
               <img
                 src={require("../assets/finanzas_.png")}
-                alt="Finanzas"
-                className="rounded-md border border-slate-200"
+                alt="Gestión comercial"
+                className="rounded-md border border-slate-200 w-32"
               />
             </div>
             <div className="w-2/3 ml-6 ">
@@ -52,8 +52,8 @@ const Industrias = () => {
             <div className="w-32">
               <img
                 src={require("../assets/educacion_.png")}
-                alt="Educación"
-                className="rounded-md border border-slate-200"
+                alt="Servicios para Educación"
+                className="rounded-md border border-slate-200 w-32"
               />
             </div>
             <div className="w-2/3 ml-6 ">
@@ -71,8 +71,8 @@ const Industrias = () => {
             <div className="w-32">
               <img
                 src={require("../assets/mineria_.png")}
-                alt="Minería"
-                className="rounded-md border border-slate-200"
+                alt="Servicios para Minería"
+                className="rounded-md border border-slate-200 w-32"
               />
             </div>
             <div className="w-2/3 ml-6 ">

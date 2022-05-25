@@ -36,12 +36,12 @@ const Navbar = () => {
                   <img
                     className="block lg:hidden h-11 w-auto"
                     src={require("../assets/logo_movil.png")}
-                    alt="Datos y estrategia"
+                    alt="Logo de Datos y estrategia para móviles"
                   />
                   <img
                     className="hidden lg:block h-11 w-auto"
                     src={require("../assets/logo_full.png")}
-                    alt="Datos y estrategia"
+                    alt="Logo de Datos y estrategia para Web"
                   />
                 </div>
                 <div className="hidden sm:block sm:ml-6">

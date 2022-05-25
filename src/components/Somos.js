@@ -18,12 +18,12 @@ const Somos = () => {
             </svg>
             <main className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
               <div className="sm:text-center lg:text-left">
-                <h1
+                <h2
                   className="p-10 text-2xl font-bold text-center mb-3 home-color-title uppercase"
                   id="somos"
                 >
                   Nosotros
-                </h1>
+                </h2>
                 <p className="mt-3 text-base text-center text-gray-500 sm:mt-5 sm:text-base sm:max-w-xl sm:mx-auto md:mt-5 md:text-base lg:mx-0">
                   Somos una compañía que desarrolla software en la nube con el
                   objetivo de maximizar la productividad y rentabilidad de

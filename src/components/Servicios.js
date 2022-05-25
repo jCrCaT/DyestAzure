@@ -61,7 +61,7 @@ const Servicios = () => {
                 información desde cualquier sitio y en cualquier hora.
               </div>
               <div>
-                <img src={sanalitica} alt="" />
+                <img className="w-90 lg:w-90 md:w-90 sm:w-70" src={sanalitica} alt="Panel de PowerBI" />
               </div>
             </Tab.Panel>
             <Tab.Panel>
@@ -73,7 +73,7 @@ const Servicios = () => {
                 oportunidades por parte de sus colaboradores.
               </div>
               <div>
-                <img src={sautomatizacion} alt="" />
+                <img className="w-90 lg:w-90 md:w-90 sm:w-70" src={sautomatizacion} alt="Automatización con PowerAutomate" />
               </div>
             </Tab.Panel>
             <Tab.Panel>
@@ -84,7 +84,7 @@ const Servicios = () => {
                 para interactuar y agilizar aún más su negocio.
               </div>
               <div>
-                <img src={splataforma} alt="" />
+                <img className="w-90 lg:w-90 md:w-90 sm:w-70" src={splataforma} alt="Apps de PowerApps" />
               </div>
             </Tab.Panel>
           </Tab.Panels>

@@ -7,9 +7,9 @@ const Principios = () => {
         className="max-w-4xl mx-auto p-4 md:px-6 md:py-10 mb-7"
         id="principios"
       >
-        <h1 className="text-2xl font-bold text-center my-3 text-white uppercase">
+        <h2 className="text-2xl font-bold text-center my-3 text-white uppercase">
           NUESTROS PRINCIPIOS
-        </h1>
+        </h2>
         <div className="flex flex-wrap justify-center">
           <div className="w-full md:w-1/2 my-6">
             <div className="bg-stone-50 border border-stone-100 px-12 pt-8 rounded-md mx-4 h-[28rem]">

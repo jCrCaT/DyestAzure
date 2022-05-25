@@ -11,8 +11,7 @@ const Brochure = () => {
               <div className="">
                 <a
                   className="w-full flex items-center justify-center px-6 py-2 border border-transparent text-base font-medium text-white bg-orange-500 hover:bg-amber-600"
-                  href={pdf}
-                >
+                  href={pdf}>
                   Descargue nuestro brochure
                 </a>
               </div>

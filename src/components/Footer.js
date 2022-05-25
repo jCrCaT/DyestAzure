@@ -9,23 +9,23 @@ const Footer = () => {
       >
         <div className="grid grid-cols-1 gap-5 place-items-center">
             <div className="flex flex-row ">
-                <img className="h-8 w-auto" src={require("../assets/logo_movil.png")} alt="Datos y estrategia" />
+                <img className="h-8 w-10" src={require("../assets/logo_movil.png")} alt="Ícono de Datos y Estrategia" />
                 <div className="text-slate-200 text-sm pt-2 pl-2">Somos Datos y estrategia</div></div>
             <div className="text-slate-200 text-sm flex flex-row">
-                <img className="h-8 w-auto w-5 h-5 inline" src={require("../assets/POWERBILOGO.png")} alt="Datos y estrategia" />
+                <img className="h-8 w-8 h-5 inline" src={require("../assets/POWERBILOGO.png")} alt="Logo de PowerBI" />
                 <div className="text-slate-200 text-sm pt-2 pl-4">Analizamos con PowerBI</div>
             </div>
             <div className="text-slate-200 text-sm flex flex-row">
-                <img className="h-8 w-auto w-5 h-5 inline" src={require("../assets/POWERAUTOMATELOGO.png")} alt="Datos y estrategia" />  
+                <img className="h-8 w-8 h-5 inline" src={require("../assets/POWERAUTOMATELOGO.png")} alt="Logo de PowerAutomate" />  
                 <div className="text-slate-200 text-sm pt-2 pl-4">Automatizamos con PowerAutomate</div>
             </div>
             <div className="text-slate-200 text-sm flex flex-row">
-                <img className="h-8 w-auto w-5 h-5 inline" src={require("../assets/POWERAPPSLOGO.png")} alt="Datos y estrategia" />
+                <img className="h-8 w-8 h-5 inline" src={require("../assets/POWERAPPSLOGO.png")} alt="Logo de Powerapps" />
                 <div className="text-slate-200 text-sm pt-2 pl-4">Desarrollamos con PowerApps</div>
             </div>
             <div className="text-slate-200 text-sm">
                 <div className="flex flex-row"> 
-                <img className="h-8 w-auto w-5 h-5 inline" src={require("../assets/PYTHONLOGO.png")} alt="Datos y estrategia" />
+                <img className="h-8 w-6 h-5 inline" src={require("../assets/PYTHONLOGO.png")} alt="Logo de Python" />
                 <div className="text-slate-200 text-sm pt-2 pl-4">Y si es necesario, programamos con Python</div>
                 </div>
             </div>
